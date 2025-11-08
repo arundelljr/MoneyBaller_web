@@ -17,11 +17,11 @@ st.set_page_config(page_title="⚽ MoneyBaller", layout="wide")
 # local host: http://127.0.0.1:PORT (change PORT to your local port)
 
 
-GET_PLAYER_ID_API_URL = "https://api-974875114263.europe-west1.run.app/get_player_id"
-SIMILAR_ALTERNATIVES_API_URL = "https://api-974875114263.europe-west1.run.app/find_similar_players"
-OUTFIELD_VALUATION_API_URL = "https://api-974875114263.europe-west1.run.app/outfield_valuation"
-GOALKEEPER_VALUATION_API_URL = "https://api-974875114263.europe-west1.run.app/goalkeeper_valuation"
-POSITION_PREDICTOR_API_URL = "https://api-974875114263.europe-west1.run.app/outfield_position_predictor"
+GET_PLAYER_ID_API_URL = "https://api-165030807225.europe-west1.run.app/get_player_id"
+SIMILAR_ALTERNATIVES_API_URL = "https://api-165030807225.europe-west1.run.app/find_similar_players"
+OUTFIELD_VALUATION_API_URL = "https://api-165030807225.europe-west1.run.app/outfield_valuation"
+GOALKEEPER_VALUATION_API_URL = "https://api-165030807225.europe-west1.run.app/goalkeeper_valuation"
+POSITION_PREDICTOR_API_URL = "https://api-165030807225.europe-west1.run.app/outfield_position_predictor"
 
 # GET_PLAYER_ID_API_URL = "http://127.0.0.1:1234/get_player_id"
 # SIMILAR_ALTERNATIVES_API_URL = "http://127.0.0.1:1234/find_similar_players"
